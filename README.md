@@ -1,10 +1,11 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a3d60ecc5d8942c9a4b04bcf4b60bf20)](https://www.codacy.com/gh/Seagate/cortx/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Seagate/cortx&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1478e64a9bf443a09f3922a79fa1ade4)](https://www.codacy.com/gh/Seagate/cortx/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Seagate/cortx&amp;utm_campaign=Badge_Grade)
 [![ license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/Seagate/cortx/blob/main/LICENSE)
 [![Slack](https://img.shields.io/badge/chat-on%20Slack-blue")](https://cortx.link/join-slack)
 [![YouTube](https://img.shields.io/badge/Video-YouTube-red)](https://cortx.link/videos)
 [![Latest Release](https://img.shields.io/github/v/release/Seagate/cortx?label=Latest%20Release)](https://github.com/seagate/cortx/releases/latest)
 [![GitHub contributors](https://img.shields.io/github/contributors/Seagate/cortx)](https://github.com/Seagate/cortx/graphs/contributors/)
 [![SODA Eco project](https://img.shields.io/badge/SODA-ECO%20Project-9cf)](./doc/Soda-welcome-page.md)
+[![CORTX inclusive words scan](https://github.com/Seagate/cortx/actions/workflows/alex_reviewdog.yml/badge.svg)](https://github.com/Seagate/cortx/actions/workflows/alex_reviewdog.yml)
 
 
 <!-- ![codacy-analysis-cli](https://github.com/Seagate/EOS-Sandbox/workflows/codacy-analysis-cli/badge.svg) -->
@@ -56,7 +57,7 @@ Resources
 ---------
 
 <!-- NOTE!!! This is copied from SUPPORT.md.  If you update it here, update it there as well.) -->
--   Converse with us in our CORTX-Open Source Slack channel [![Slack](https://img.shields.io/badge/chat-on%20Slack-blue")](https://cortx.link/slack_invite) to interact with community members and gets your questions answered.
+-   Converse with us in our CORTX-Open Source Slack channel [![Slack](https://img.shields.io/badge/chat-on%20Slack-blue")](https://join.slack.com/t/cortxcommunity/shared_invite/zt-1cnj146n6-GA~0cau4VI1Ojs5UNdf99Q) to interact with community members and gets your questions answered.
 -   Join us in [Discussions](https://github.com/Seagate/cortx/discussions) to ask, answer, and discuss topics with your fellow CORTX contributors.
 -   Check out our [Youtube Channel](https://cortx.link/videos).
 -   Browse a ton of architectural documents in our [Confluence Pages](https://seagate-systems.atlassian.net/wiki/spaces/PUB/overview)
